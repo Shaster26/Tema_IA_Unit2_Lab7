@@ -1,0 +1,15 @@
+		header{
+		background-color:#efffcc;
+		font-size: 25px;
+		}
+		body{
+		background-color: #ffffe6;
+		font-family: Comic Sans MS;
+		}
+		.rand{
+		border-bottom: 1px solid black ;
+		}
+		#pozaprofil{
+			border-radius: 	15%;
+
+		}
